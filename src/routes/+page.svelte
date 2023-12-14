@@ -1,4 +1,4 @@
-<!-- App.svelte -->
+<!-- page.svelte -->
 
 <script>
   import Button from "$lib/componenten/Button.svelte";

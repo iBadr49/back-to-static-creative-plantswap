@@ -1,6 +1,7 @@
 <script>
   import Title from "$lib/componenten/Title.svelte";
 
+
   import { onMount } from "svelte";
 
   let cursor;
@@ -36,7 +37,10 @@
   }
 </script>
 
+
+
 <main>
+
   <Title />
 
   <div bind:this={cursor} class="burlesque-cursor"></div>
@@ -48,8 +52,8 @@
 <style>
   .burlesque-cursor {
     position: absolute;
-    width: 30px;
-    height: 30px;
+    width: 70vw;
+    height: 100vh;
     background-color: var(--background-color);
     border-radius: 50%;
     transition: transform 2s ease-out;
@@ -58,11 +62,11 @@
   .burlesque-cursor::before {
     content: "";
     position: absolute;
-    width: 20px;
-    height: 20px;
+    width: 60px;
+    height: 60px;
     background-color: var(--background-color-light);
     border-radius: 50%;
-    top: 40%;
+    top: 60%;
     left: 20%;
     transform: translate(-50%, -50%);
     z-index: -1;
@@ -82,8 +86,8 @@
 
   #leave {
     position: absolute;
-    width: 48px;
-    height: 48px;
+    width: 69px;
+    height: 69px;
     fill: var(--background-color);
   }
 </style>
