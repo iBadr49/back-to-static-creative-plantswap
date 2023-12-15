@@ -1,5 +1,6 @@
 <script>
   import Title from "$lib/componenten/Title.svelte";
+
 </script>
 
 <main>

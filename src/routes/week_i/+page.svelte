@@ -45,7 +45,7 @@
 
   <div bind:this={cursor} class="burlesque-cursor"></div>
   <div id="click">
-    <img src="src/lib/assets/leave.png" alt="leave" id="leave" />
+    <img src="src/lib/assets/leave.png" alt="leave" id="leave" loading="lazy"/>
   </div>
 
 </main>
