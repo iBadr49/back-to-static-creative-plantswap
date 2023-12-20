@@ -1,6 +1,6 @@
 <!-- Title.svelte -->
 
-<h1> Plantswap </h1> 
+<h1> Creative Coding </h1> 
 
 <style>
   h1 {
