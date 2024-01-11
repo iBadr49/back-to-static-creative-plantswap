@@ -20,15 +20,15 @@
 
 Elke week heb ik aan een bepaalde concept roulette.
 
-### Spike 1
+### Spike I
 
 ``` Awful brulesque cursor effect ```
 
-### Spike 2
+### Spike II
 
 ``` Merry ballenbak bubbelgum footer ```
 
-### Spike 3
+### Spike III
 
 ``` Insane pop-art text animation ```
 
