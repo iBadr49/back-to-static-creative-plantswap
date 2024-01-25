@@ -8,7 +8,7 @@
     function animateBackground() {
       const hue = (Date.now() / 10000) * 360; // Change the divisor to adjust speed
       const saturation = 80;
-      const lightness = 40;
+      const lightness = 60;
 
       const color = `hsl(${hue}, ${saturation}%, ${lightness}%)`;
 

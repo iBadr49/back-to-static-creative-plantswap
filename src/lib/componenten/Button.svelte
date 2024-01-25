@@ -14,7 +14,7 @@
     text-decoration: none;
     color: black;
     background-color: var(--button-color);
-    border: 1px solid #ddd;
+    border: 2px solid var(--background-color);
     border-radius: 8px;
     transition:
       background-color 0.3s ease,
@@ -23,6 +23,7 @@
 
   a:hover {
     background-color: var(--background-color);
+    border: 2px solid var(--button-color);
     color: #fff;
   }
 </style>
