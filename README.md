@@ -14,7 +14,7 @@
 
 ## Beschrijving 
 
-- Ontwerp en maak creatieve oplossingen voor de interface.
+- Gedurende drie weken heb ik drie diverse en creatieve animaties of oplossingen voor de interface ontworpen en geimplementeerd.
  
 ## Spikes
 
